@@ -1,5 +1,5 @@
 {
-  "name": "Bitstarter course - student Julien Moutsinga",
+  "name": "bitstarter-jmoutsinga",
   "version": "0.0.2",
   "description": "Howeworks of the coursera course 'Startup Engineering' based on the sample node.js app for heroku",
   "main": "web.js",
